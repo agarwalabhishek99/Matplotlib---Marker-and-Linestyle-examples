@@ -1,0 +1,1 @@
+![screencapture-localhost-8888-notebooks-Matplotlib-Marker-and-Linestyle-example-ipynb-2021-06-06-14_34_59](https://user-images.githubusercontent.com/84277750/120918915-8e6ff380-c6d4-11eb-9863-320e946972d4.png)
